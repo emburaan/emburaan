@@ -26,7 +26,7 @@ Sumit Cheriyan</a></h1>
   </a>
 </p>
 
-<h3 align="left">## Operating Systems 👉</h3> 
+<h3 align="left">## Operating Systems <img src = "https://media.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" width = 50px></h3> 
 <p align="left">
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
   &emsp;
@@ -35,6 +35,21 @@ Sumit Cheriyan</a></h1>
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://shields.io/badge/MacOS--9cf?logo=Apple&style=for-the-badge"></a>
+</p>
+
+<h3 align="left">## Language Known 👉</h3> 
+<p align="left">
+    <a href="#"><img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Dart-4597CE?style=for-the-badge&logo=dart&logoColor=white"></a>
+</p>
+
+
+<h3 align="left">## Designing Tools 👉</h3> 
+<p align="left">
+    <a href="#"><img src="https://img.shields.io/badge/AdobeXd-bcbcbc?style=for-the-badge&logo=adobexd&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Figma-b67148?style=for-the-badge&logo=figma&logoColor=white"></a>
 </p>
 
 ## GitHub Stats
